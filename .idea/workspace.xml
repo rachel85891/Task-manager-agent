@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce6a2995-9269-4ac0-b8a2-378ef07daf77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-todo-client/vite.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agent_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/agent_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/to_do_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/to_do_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-todo-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-todo-client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-todo-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-todo-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-todo-client/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-todo-client/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
